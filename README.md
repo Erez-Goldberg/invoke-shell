@@ -20,6 +20,7 @@ After running the file, three new classes (Pentest-WMI) will be created in the r
 #### CommandLineEventConsumer
 ![wmi3](https://user-images.githubusercontent.com/90933102/134240862-69e2794f-435a-422b-a18c-2fd7ac9b1993.PNG)
 This class stores and execute the payload
-
+![wmi4](https://user-images.githubusercontent.com/90933102/134241471-5fc1b29c-9a09-4ffd-b5ea-bd8199484e10.PNG)
 #### __FilterToConsumerBinding
+
 
