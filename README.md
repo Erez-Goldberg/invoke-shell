@@ -7,4 +7,7 @@ Almost all amsi bypass techniques have already been flagged and blocked. Therefo
 For additional information: https://www.contextis.com/us/blog/amsi-bypass
 
 # WMI Event Subscriptions for persistence
-Windows Management Instrumentation (WMI) Event Subscriptions is one of various ways to establish persistence on a local machine.
+Windows Management Instrumentation (WMI) Event Subscription is one of various ways to establish persistence on a local machine.
+WMI events run as an nt-authority\system, persists across reboots and Administrator privilege is required to use this technique.
+Persistent WMI objects are stored in the WMI repository:
+%windir%\System32\wbem\Repository\OBJECTS.DATA
