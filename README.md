@@ -77,4 +77,6 @@ Selecting <b>Save Self Extraction Directive (SED) file</b> option will allows yo
 Select <b>Next</b> to create the executable file:<br />
 <img src=https://user-images.githubusercontent.com/90933102/134420699-65ef6e3b-7926-4056-8554-a47960ef863b.PNG width="445" height="350">
 <br /> <br />
-
+File is now ready:<br />
+<img src=https://user-images.githubusercontent.com/90933102/134421531-0f94d7bb-96d8-42b6-9ee3-dbb0c66c8de1.PNG width="445" height="350">
+<br /> <br />
