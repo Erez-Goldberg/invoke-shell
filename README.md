@@ -35,8 +35,11 @@ Before compiling the script, IP (and port if different from 443) must be changed
 <br />
 There are several methods to compile ps1 to executables, however IExpress utility is a "Living off the Land". IExpress is a built-in Windows application that’s typically used for packaging files or creating software installers. <br />
 IExpress must be opened with an admin: <br />
-<img src=https://user-images.githubusercontent.com/90933102/134406152-dda9b034-4df6-48fb-9497-2f4e5e7e3f21.PNG width="502" height="200"> <br />
-Select Create new Self-Extraction Directive File option and click Next:<br />
+<img src=https://user-images.githubusercontent.com/90933102/134406152-dda9b034-4df6-48fb-9497-2f4e5e7e3f21.PNG width="502" height="200"> <br /> <br />
+Select <b> Create new Self-Extraction Directive File </b> option and click Next:<br />
 <img src=https://user-images.githubusercontent.com/90933102/134407543-977cf679-80d8-4acf-9a97-9a3f26b6a673.PNG width="436" height="350">
-<br />
-
+<br /> <br />
+Select the <strong>Extract files and run an installation command</strong> <br />
+<img src=https://user-images.githubusercontent.com/90933102/134408142-0bd5ecc5-b91e-4899-bcf4-00fdf50f26ca.PNG width="444" height="350">
+  <br />
+Write a <b>Package Title</b> and click Next
