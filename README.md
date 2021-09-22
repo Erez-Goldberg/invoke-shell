@@ -57,7 +57,10 @@ Now click on <b>Add</b> and select the reverse.ps1 file: <br />
 <br /> <br />
 On the Install Program window, write <b>powershell.exe -ExecutionPolicy Bypass -File reverse.ps1</b> and click Next:
 <img src=https://user-images.githubusercontent.com/90933102/134415330-a694f266-fa05-4e07-8b5c-6a75b3f1851f.PNG width="446" height="350"> 
-
+<br /> <br />
+As the exe file is supposed to run in the background, choose <b>Hidden</b> and click <b>Next</b>:
+<img src=https://user-images.githubusercontent.com/90933102/134416596-9cb48117-a6c0-4b48-a171-6d46f05376a7.PNG width="451" height="350">
+<br /> <br />
 	  
 
 
