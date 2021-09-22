@@ -64,7 +64,11 @@ As the exe file is supposed to run in the background, choose <b>Hidden</b> and c
 Select <b>No message</b> and <b>Next</b>: <br />
 <img src=https://user-images.githubusercontent.com/90933102/134417150-49b32d83-9221-4e09-8554-528ab5322e9c.PNG width="447" height="350">
 <br /> <br />
-Now browse the path and write the exe file's name (pleaserunme.exe). Enable both options and click Next:
+Now browse the path and write the exe file's name (pleaserunme.exe) you are going to create. Enable both options and click Next:
 <br />
 <img src=https://user-images.githubusercontent.com/90933102/134417824-59281331-3213-4230-975e-a881de6d42be.PNG width="445" height="350">
 <br /> <br />
+No restart is needed:<br />
+<img src=https://user-images.githubusercontent.com/90933102/134418930-859d9c14-99f6-4420-a6fd-4ae5848afd1d.PNG width="448" height="350">
+<br /> <br />
+Now select <b>Save Self Extraction Directive (SED) file</b> and click <b>Next</b>. <br />Saving a SED file allows you to modify any options you’ve provided throughout this wizard at a later time:
