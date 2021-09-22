@@ -61,6 +61,7 @@ On the Install Program window, write <b>powershell.exe -ExecutionPolicy Bypass -
 As the exe file is supposed to run in the background, choose <b>Hidden</b> and click <b>Next</b>:
 <img src=https://user-images.githubusercontent.com/90933102/134416596-9cb48117-a6c0-4b48-a171-6d46f05376a7.PNG width="451" height="350">
 <br /> <br />
-	  
-
+Select <b>No message</b> and <b>Next</b>: <br />
+<img src=https://user-images.githubusercontent.com/90933102/134417150-49b32d83-9221-4e09-8554-528ab5322e9c.PNG width="447" height="350">
+<br /> <br />
 
