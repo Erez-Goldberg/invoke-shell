@@ -1,6 +1,7 @@
 # Invoke-shell
-The sole purpose of this tool is for red-teamers and pentesters assessments.
-This tool provides PowerShell reverse shell with AMSI bypass, PsExec download and persistence via WMI event subscription.
+This tool provides PowerShell reverse shell with AMSI bypass and several additional features such as PsExec download and persistence via WMI event subscription.
+<br /> The sole purpose of this tool is for red-teamers and pentesters assessments.
+
 
 ## Amsi Bypass
 Almost all amsi bypass techniques have already been flagged and blocked. Therefore I choose Paul Laîné's technique which is still stealth. This technique manipulate amsi.dll by modifing the instructions of the Amsi ScanBuffer function, hence patching it in order to block the detection of "malicious" content.
@@ -47,15 +48,16 @@ Write a <b>Package Title</b> and click Next: <br />
 <br /> <br />
 Next, choose <b>No prompt</b>: <br />
 <img src=https://user-images.githubusercontent.com/90933102/134410110-d307c0ca-739b-4aaa-8d7f-c39a55a7b69b.PNG width="445" height="350">
-<br />
-In the License Agreement choose <b>Do not display license</b> option and click Next: <br />
+<br /> <br />
+In the License Agreement choose <b>Do not display a license</b> option and click Next: <br />
 <img src=https://user-images.githubusercontent.com/90933102/134410658-ebee1c5c-b4cd-4df1-930f-4c9f16885e3a.PNG width="448" height="350"> 
-<br />
+<br /> <br />
 Now click on <b>Add</b> and select the reverse.ps1 file: <br />
 <img src=https://user-images.githubusercontent.com/90933102/134411928-0921da31-f048-4f67-a059-7b207566e382.PNG width="447" height="350"> 
-<br />
+<br /> <br />
+On the Install Program window, write <b>powershell.exe -ExecutionPolicy Bypass -File reverse.ps1</b> and click Next:
+<img src=https://user-images.githubusercontent.com/90933102/134415330-a694f266-fa05-4e07-8b5c-6a75b3f1851f.PNG width="446" height="350"> 
 
-
-	powershell.exe -ExecutionPolicy Bypass -File reverse.ps1  
+	  
 
 
