@@ -71,4 +71,6 @@ Now browse the path and write the exe file's name (pleaserunme.exe) you are goin
 No restart is needed:<br />
 <img src=https://user-images.githubusercontent.com/90933102/134418930-859d9c14-99f6-4420-a6fd-4ae5848afd1d.PNG width="448" height="350">
 <br /> <br />
-Now select <b>Save Self Extraction Directive (SED) file</b> and click <b>Next</b>. <br />Saving a SED file allows you to modify any options you’ve provided throughout this wizard at a later time:
+Selecting <b>Save Self Extraction Directive (SED) file</b> option will allows you to modify any options you have previously selected after compliation is completed:  <br /> 
+<img src=https://user-images.githubusercontent.com/90933102/134419874-94e6576b-ef72-41f9-9aba-c4d6a566e43b.PNG width="448" height="350">
+<br /> <br />
