@@ -11,9 +11,9 @@ For additional information: https://www.contextis.com/us/blog/amsi-bypass
 ## WMI Event Subscriptions for persistence
 Windows Management Instrumentation (WMI) Event Subscription is one of various ways to establish persistence on a local machine.
 WMI events run as an nt-authority\system, persists across reboots and Administrator privilege is required to use this technique.      
-By default, the WMI service - Winmgmt is running and listening on tcp port 135.
+By default, the WMI service - Winmgmt is running and listening on tcp port 135. <br />
 A restart is required in order for the persistence to start.
-Persistent WMI objects are stored in the subscription NameSpace in the WMI repository:
+Persistent WMI objects are stored in the <b>subscription</b> Namespace in the WMI repository:
 %windir%\System32\wbem\Repository\OBJECTS.DATA
 <br />
 <img src=https://user-images.githubusercontent.com/90933102/134239803-e1effd09-792f-4c3b-ad9f-dc8ae2a1c496.PNG width="405" height="350">
