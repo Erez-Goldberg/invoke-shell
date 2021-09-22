@@ -41,5 +41,8 @@ Select <b> Create new Self-Extraction Directive File </b> option and click Next:
 <br /> <br />
 Select the <strong>Extract files and run an installation command</strong> <br />
 <img src=https://user-images.githubusercontent.com/90933102/134408142-0bd5ecc5-b91e-4899-bcf4-00fdf50f26ca.PNG width="444" height="350">
-  <br />
-Write a <b>Package Title</b> and click Next
+  <br /> <br />
+Write a <b>Package Title</b> and click Next: <br />
+<img src=https://user-images.githubusercontent.com/90933102/134409537-eb9c83bc-31c5-4541-80c5-035e698cbf02.PNG width="438" height="350">
+<br /> <br />
+
