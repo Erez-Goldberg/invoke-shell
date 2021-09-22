@@ -51,3 +51,11 @@ Next, choose <b>No prompt</b>: <br />
 In the License Agreement choose <b>Do not display license</b> option and click Next: <br />
 <img src=https://user-images.githubusercontent.com/90933102/134410658-ebee1c5c-b4cd-4df1-930f-4c9f16885e3a.PNG width="448" height="350"> 
 <br />
+Now click on <b>Add</b> and select the reverse.ps1 file: <br />
+<img src=https://user-images.githubusercontent.com/90933102/134411928-0921da31-f048-4f67-a059-7b207566e382.PNG width="447" height="350"> 
+<br />
+
+
+	powershell.exe -ExecutionPolicy Bypass -File reverse.ps1  
+
+
