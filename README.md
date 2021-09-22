@@ -74,3 +74,7 @@ No restart is needed:<br />
 Selecting <b>Save Self Extraction Directive (SED) file</b> option will allows you to modify any options you have previously selected after compliation is completed:  <br /> 
 <img src=https://user-images.githubusercontent.com/90933102/134419874-94e6576b-ef72-41f9-9aba-c4d6a566e43b.PNG width="448" height="350">
 <br /> <br />
+Select <b>Next</b> to create the executable file:<br />
+<img src=https://user-images.githubusercontent.com/90933102/134420699-65ef6e3b-7926-4056-8554-a47960ef863b.PNG width="445" height="350">
+<br /> <br />
+
