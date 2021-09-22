@@ -64,4 +64,7 @@ As the exe file is supposed to run in the background, choose <b>Hidden</b> and c
 Select <b>No message</b> and <b>Next</b>: <br />
 <img src=https://user-images.githubusercontent.com/90933102/134417150-49b32d83-9221-4e09-8554-528ab5322e9c.PNG width="447" height="350">
 <br /> <br />
-
+Now browse the path and write the exe file's name (pleaserunme.exe). Enable both options and click Next:
+<br />
+<img src=https://user-images.githubusercontent.com/90933102/134417824-59281331-3213-4230-975e-a881de6d42be.PNG width="445" height="350">
+<br /> <br />
