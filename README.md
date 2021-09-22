@@ -45,4 +45,6 @@ Select the <strong>Extract files and run an installation command</strong> <br />
 Write a <b>Package Title</b> and click Next: <br />
 <img src=https://user-images.githubusercontent.com/90933102/134409537-eb9c83bc-31c5-4541-80c5-035e698cbf02.PNG width="438" height="350">
 <br /> <br />
-
+Next, choose <b>No prompt</b>: <br />
+<img src=https://user-images.githubusercontent.com/90933102/134410110-d307c0ca-739b-4aaa-8d7f-c39a55a7b69b.PNG width="445" height="350">
+<br />
