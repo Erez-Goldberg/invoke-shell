@@ -33,5 +33,7 @@ This class stores and execute the payload
 ## Compiling
 Before compiling the script, IP (and port if different from 443) must be changed.
 <br />
-There are several methods to compile ps1 to executables, however IExpress utility is a "Living off the Land". IExpress is a built-in Windows application that’s typically used for packaging files or creating software installers.
+There are several methods to compile ps1 to executables, however IExpress utility is a "Living off the Land". IExpress is a built-in Windows application that’s typically used for packaging files or creating software installers. <br />
+IExpress must be opened with an admin:
 
+Select Create new Self-Extraction Directive File option and click Next.
